@@ -1,0 +1,70 @@
+Station ID	 Station Name	 Latitude	 Longitude	 Project
+ca0101	 Cape Cod Canal  West End	41.73749923706060	-70.6249008178711	 Cape Cod PORTS
+cb0102	Cape Henry LB 2CH	36.9594	-76.0128	 Chesapeake Bay South PORTS
+cb0201	York Spit LBB 22 (ATON)	37.14	-76.13383	 Chesapeake Bay South PORTS
+cb0301	Thimble Shoal LB 18	37.01108	-76.24903	 Chesapeake Bay South PORTS
+cb0402	Naval Station Norfolk LB 7	36.96295	-76.33388	 Chesapeake Bay South PORTS
+cb0601	Newport News Channel LB 14	36.95602	-76.41448	 Chesapeake Bay South PORTS
+cb0701	 Dominion Terminal	36.96233	-76.42417	 Chesapeake Bay South PORTS
+cb0801	Rappahannock Shoal Channel LBB 60	37.67442	-76.15462	 Chesapeake Bay North PORTS
+cb1001	 Cove Point LNG Pier (SL-ADP)	38.4026985168457	-76.38390350341800	 Chesapeake Bay North PORTS
+cb1101	Chesapeake Channel LBB 92	38.98215	-76.38467	 Chesapeake Bay North PORTS
+cb1201	 Tolchester Front Range	39.13997	-76.33072	 Chesapeake Bay North PORTS
+cb1301	 Chesapeake City	39.53053	-75.82762	 Chesapeake Bay North PORTS
+cb1401	 Newport News Shipbuilding	36.98379898071290	-76.443603515625	 Chesapeake Bay South PORTS
+cc0101	 AP Buoy	27.79239	-96.95653	 Corpus Christi PORTS
+cc0201	Aransas Pass LB6	27.82608	-97.01981	 Corpus Christi PORTS
+cc0301	 Port Aransas  Channel View	27.83981	-97.05314	 Corpus Christi PORTS
+cc0401	 MODA Currents	27.8177	-97.2093	 Corpus Christi PORTS
+cc0601	 UTMSI Fisheries and Marine Lab	27.83977	-97.07275	 Corpus Christi PORTS
+db0301	 Philadelphia	39.94620132446290	-75.13960266113280	 Delaware Bay PORTS
+db0502	Delaware Bay Channel LB 10	38.94013	-75.10486	 Delaware Bay PORTS
+g06010	Galveston Bay Entr Channel LB 11	29.34222	-94.74083	 Houston/Galveston PORTS
+g08010	 Fred Hartman Br.  Houston Ship Channel	29.703500747680700	-95.0188980102539	 Houston/Galveston PORTS
+g09010	 Galveston Channel  West End	29.30938	-94.82063	 Houston/Galveston PORTS
+g10010	610 Bridge  Houston Ship Channel	29.72570037841800	-95.26699829101560	 Houston/Galveston PORTS
+gl0101	 Cuyahoga River	41.49448	-81.70292	 Great Lakes Real-Time Currents Monitoring
+gl0201	 Maumee River	41.62913	-83.53022	 Great Lakes Real-Time Currents Monitoring
+hb0302	Hookton Channel Day Marker 3	40.74399948120120	-124.22450256347700	 Humboldt Bay PORTS
+hb0401	 Chevron Pier	40.7775	-124.19661	 Humboldt Bay PORTS
+jx0302	Mile Point LB 20	30.38433	-81.44217	 Jacksonville PORTS
+jx0401	Fulton Cutoff LB 34	30.39097	-81.49678	 Jacksonville PORTS
+jx0601	Trout River Cut LB 64	30.39853	-81.62594	 Jacksonville PORTS
+kb0101	St Marys Entrance  LB 13	30.7103	-81.3731	 Kings Bay PORTS
+kb0201	Range A  LB 23  St Marys River	30.71049	-81.45926	 Kings Bay PORTS
+kb0301	Range A2  LB 29  Cumberland Sound	30.72482	-81.48445	 Kings Bay PORTS
+kb0401	Range E  LB 43  Cumberland Sound	30.77505	-81.48902	 Kings Bay PORTS
+lc0101	Calcasieu Channel LB 36	29.69347	-93.33118	 Lake Charles PORTS
+lc0201	 Calcasieu Pass  Cameron Fishing Pier	29.76412	-93.3429	 Lake Charles PORTS
+lc0301	 Lake Charles City Docks	30.2178	-93.2495	 Lake Charles PORTS
+lm0101	 First Street Wharf	29.92244	-90.07114	 Lower Mississippi River PORTS
+lm0201	 Port Allen	30.43547	-91.20056	 Lower Mississippi River PORTS
+mb0302	 Cochrane Bridge	30.73295	-88.04166	 Mobile Bay PORTS
+mb0402	 APM Terminals	30.67083	-88.03469	 Mobile Bay PORTS
+mc0101	 Atchafalaya Bar Channel	29.318	-91.42967	 Morgan City PORTS
+mg0101	Matagorda Ship Channel Marker 19	28.44769	-96.35617	 Matagorda Bay PORTS
+mg0201	 Matagorda Entrance Channel	28.42667007446290	-96.33000183105470	 Matagorda Bay PORTS
+mi0101	 Miami LB M	25.76852	-80.08335	 Miami PORTS
+mi0201	Miami LB1	25.76293	-80.09013	 Miami PORTS
+mi0301	Miami LB3	25.76103	-80.09685	 Miami PORTS
+n03020	 The Narrows	40.60599899291990	-74.03810119628910	 New York/New Jersey PORTS
+n06010	Kill Van Kull LB 14	40.64358	-74.13889	 New York/New Jersey PORTS
+n07010	Newark Bay Entrance LB 18	40.6471	-74.15555	 New York/New Jersey PORTS
+nb0301	 Quonset Point	41.58369827270510	-71.39700317382810	 Narragansett Bay PORTS
+nl0101	Groton  Thames River  Pier 6	41.39175	-72.0923	 New London PORTS
+s06010	 Martinez-AMORCO Pier	38.03463	-122.12525	 San Francisco Bay PORTS
+s08010	Southampton Shoal Channel LB 6	37.91625	-122.42233	 San Francisco Bay PORTS
+s09010	Oakland Outer Harbor LB3	37.8082	-122.34434	 San Francisco Bay PORTS
+s10010	Oakland Inner Harbor LB4	37.80097	-122.34775	 San Francisco Bay PORTS
+sn0101	Sabine Bank Channel LBB 34	29.6735	-93.8355	 Sabine Neches PORTS
+sn0201	 Sabine Pass  USCG Base	29.728599548339800	-93.87000274658200	 Sabine Neches PORTS
+sn0301	 Sabine Front Range	29.75806	-93.89	 Sabine Neches PORTS
+sn0401	 West Port Arthur Bridge	29.82361	-93.96472	 Sabine Neches PORTS
+sn0501	 Rainbow Bridge	29.98111	-93.87111	 Sabine Neches PORTS
+sn0601	 Port of Beaumont	30.07972	-94.08623	 Sabine Neches PORTS
+sn0701	 Port Arthur	29.8667	-93.93111	 Sabine Neches PORTS
+sn0801	 Cheniere LNG	29.742399215698200	-93.87370300292970	 Sabine Neches PORTS
+t01010	 Sunshine Skyway Bridge ADCP	27.62065	-82.65525	 Tampa Bay PORTS
+t02010	 Old Port Tampa	27.86287	-82.55373	 Tampa Bay PORTS
+t03010	 Port Manatee	27.66395	-82.59877	 Tampa Bay PORTS
+t04010	Egmont Channel LB 9	27.60424	-82.86742	 Tampa Bay PORTS

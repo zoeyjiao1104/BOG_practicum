@@ -1,0 +1,45 @@
+﻿id,buoy,transmission_type,fishery,fishing_technology,start_date,end_date
+1,72,satellite,scallop,aquaculture,2021-04-08,2021-07-18
+2,73,satellite,scallop,aquaculture,2021-04-08,2021-07-18
+3,74,satellite,scallop,aquaculture,2021-04-08,2021-07-18
+4,75,satellite,scallop,aquaculture,2021-04-08,2021-07-18
+5,133,satellite,lobster,,2021-06-24,2021-07-01
+6,133,satellite,demo,ropeless gear,2021-07-21,
+7,135,satellite,monkfish,gillnet,2021-07-18,
+8,136,satellite,monkfish,gillnet,2021-07-18,
+9,137,satellite,monkfish,gillnet,2021-07-18,
+10,138,satellite,monkfish,gillnet,2021-07-18,2021-08-29
+11,138,satellite,lobster,,2021-09-06,
+12,139,satellite,lobster,,2021-06-24,
+13,140,satellite,lobster,ropeless gear,2021-06-24,
+14,141,satellite,lobster,,2021-09-06,
+15,144,satellite,monkfish,gillnet,2021-07-18,
+16,148,satellite,monkfish,,2021-07-18,2021-08-29
+17,148,satellite,lobster,ropeless gear,2021-10-01,2021-12-10
+18,149,satellite,monkfish,,2021-08-29,
+19,150,satellite,monkfish,,2021-08-29,
+20,151,satellite,snow crab,,2021-06-05,2021-07-23
+21,155,satellite,snow crab,,2021-06-05,2021-07-23
+22,161,satellite,lobster,,2021-06-09,2021-07-16
+23,161,satellite,mussel farm,aquaculture,2021-07-29,
+24,162,satellite,lobster,,2021-06-09,2021-07-16
+25,162,satellite,mussel farm,aquaculture,2021-07-29,
+26,163,satellite,whelk,,2021-08-09,2021-10-27
+27,164,satellite,whelk,,2021-08-09,2021-10-27
+28,219,radio,lobster,,2021-06-09,2021-07-16
+29,219,radio,mussel farm,aquaculture,2021-07-29,
+30,220,radio,lobster,,2021-06-09,2021-07-16
+31,220,radio,mussel farm,aquaculture,2021-07-29,
+32,221,radio,lobster,,2021-06-09,2021-07-16
+33,221,radio,mussel farm,aquaculture,2021-07-29,
+34,222,radio,lobster,,2021-06-09,2021-07-16
+35,222,radio,mussel farm,aquaculture,2021-07-29,
+36,223,radio,lobster,,2021-06-09,2021-07-16
+37,223,radio,mussel farm,aquaculture,2021-07-29,
+38,227,radio,whelk,,2021-08-03,2021-11-02
+39,228,radio,whelk,,2021-08-03,2021-11-02
+40,229,radio,whelk,,2021-08-03,2021-11-02
+41,258,satellite,whelk,,2021-08-03,2021-11-02
+42,259,satellite,whelk,,2021-08-03,2021-11-02
+43,260,satellite,whelk,,2021-08-03,2021-11-02
+44,261,satellite,whelk,,2021-08-03,2021-11-02

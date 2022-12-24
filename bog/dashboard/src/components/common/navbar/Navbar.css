@@ -1,0 +1,36 @@
+
+.HorizontalAppBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  align-items: 'right';
+  color: 'transparent';
+  background-color: 'transparent';
+  padding: 1.5em;
+  height:10%;
+  width: 100%;
+}
+
+.VerticalNavBar {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: 'left';
+    color: rbga(0, 0, 0, 0);
+    background-color: rbga(0, 0, 0, 0);
+    padding: 1.5em;
+    height:100%;
+    width: 10%;
+  }
+  
+  .VerticalNavBar-item {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    padding: 1.5em;
+    margin-left: 10px;
+    color: inherit;
+    text-decoration: inherit;
+    text-transform: none;
+    outline: transparent;
+  }

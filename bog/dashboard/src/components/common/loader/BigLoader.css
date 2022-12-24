@@ -1,0 +1,18 @@
+.loaderOuterContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50vh;
+}
+
+.loaderInnerContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.loaderText {
+    font-weight: lighter;
+    color:darkgrey;
+}

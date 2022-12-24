@@ -1,0 +1,47 @@
+.tab-list {
+    border-bottom: 1px solid #ccc;
+    padding-left: 0;
+  }
+  
+  .tab-list-item {
+    display: inline-block;
+    list-style: none;
+    margin-bottom: -1px;
+    padding: 0.5rem 0.75rem;
+  }
+  
+  .tab-list-active {
+    background-color: white;
+    border: solid #ccc;
+    border-width: 1px 1px 0 1px;
+  }
+
+
+.report-title {
+  margin-bottom: 0;
+}
+
+.leafletContainer {
+  width: 100% !important;
+  height: 500px !important;
+  outline: rgb(140, 136, 136) solid 1px !important;
+}
+
+.custom-container {
+  width: 100vw !important;
+}
+
+.summary-section {
+  padding-left: 20px;
+}
+
+.summary-section h4 {
+  margin-top: 0px !important;
+}
+
+.anomaly-section {
+  padding-left: 20px;
+}
+  
+
+  

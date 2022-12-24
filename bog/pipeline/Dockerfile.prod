@@ -1,0 +1,6 @@
+FROM python:3.9
+WORKDIR /bog
+COPY requirements.txt /bog/requirements.txt
+RUN python -m pip install --no-cache-dir -r requirements.txt
+COPY . /bog
+CMD [ "python3", "jobs/main.py" ]

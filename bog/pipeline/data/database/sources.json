@@ -1,0 +1,25 @@
+[{"name": "National Oceanic and Atmospheric Administration(NOAA) Tides and Currents",
+  "website": "https://tidesandcurrents.noaa.gov/"
+  },
+  {"name": "Fisheries and Oceans Canada(DFO)",
+   "website": "https://www.dfo-mpo.gc.ca/index-eng.html"
+  },
+  {"name": "Blue Ocean Gear(BOG)",
+   "website": "https://www.blueoceangear.com/"
+  },
+   {"name": "NOAA Optimum Interpolation Sea Surface Temperature(OISST)",
+   "website": "https://www.ncei.noaa.gov/products/optimum-interpolation-sst"
+  },
+   {"name": "French Research Institute for Exploitation of the Sea(IFREMER), Argo",
+   "website": "https://wwz.ifremer.fr/en"
+  },
+   {"name": "NOAA Weather Service WaveWatch III",
+    "website": "https://www.weather.gov/sti/coastalact_ww3"
+   },
+  {"name": "NOAA Global Drifter",
+   "website": "https://www.aoml.noaa.gov/global-drifter-program/"
+  },
+  {"name": "NASA OSCAR",
+    "website": "https://podaac.jpl.nasa.gov/dataset/JASON_3_L2_OST_OGDR_GPS"
+   }
+]

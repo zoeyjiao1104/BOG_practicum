@@ -1,0 +1,14 @@
+site_name: api
+site_description: API for retrieving ocean data and serving it to the Blue Ocean Gear buoy monitoring dashboard
+repo_url: https://github.com/11th-Hour-Data-Science/api
+site_dir: site
+copyright: Copyright &copy; 2021, <a href="https://github.com/11th-Hour-Data-Science">11th-Hour-Data-Science</a>.
+dev_addr: 0.0.0.0:8001
+
+theme:
+  name: material
+nav:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'

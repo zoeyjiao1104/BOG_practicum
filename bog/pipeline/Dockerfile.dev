@@ -1,0 +1,18 @@
+# Retrieve base Python image
+FROM python:3.9
+
+# Create new working directory within container
+WORKDIR /usr/src/pipeline
+
+# Copy and install requirements file
+COPY requirements.txt .
+RUN python -m pip install --no-cache-dir -r requirements.txt
+
+# Copy remainder of code into container
+COPY . .
+
+# Install select directories as packages to facilitate imports
+RUN pip install -e .
+
+# Run as bash container
+CMD ["/bin/bash"]

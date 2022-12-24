@@ -1,0 +1,23 @@
+# Retrieve base Python image
+FROM python:3.9
+
+# Set working directory in container
+WORKDIR /bog
+
+# Install required Python packages
+COPY requirements.txt /bog/requirements.txt
+RUN python -m pip install --no-cache-dir -r requirements.txt
+
+# Copy existing models
+COPY analysis/models/anomaly_if.joblib analysis/models/anomaly_if.joblib
+
+# Copy required code for training models on cloud-based servers
+COPY privatekey.json privatekey.json
+COPY predictions_training_set.csv .
+COPY remote.py .
+COPY utilities/logger.py utilities/logger.py
+COPY analysis/forecast.py analysis/forecast.py
+COPY jobs/load_models.py .
+
+# Execute training
+CMD ["python", "remote.py"]
